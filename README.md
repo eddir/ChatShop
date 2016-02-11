@@ -1,6 +1,6 @@
 # PocketMine-plugins
 Plugins for PocketMine-MP. 
 
-#Welcome to my repository!#
-
->I dont know what write...
+#list of my plugins#
+* ChangingBlocks >Your blocks will change over a given interval
+* ChatShop >Buy and sell items in the chat
