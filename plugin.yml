@@ -1,0 +1,19 @@
+name: ChatShop
+main: eddir\main
+version: 1.23.1 by Eddir
+api: [1.0.0]
+author: eddir
+website: vk.com/eddir
+commands:
+ shop:
+  description: ChatShop help
+  usage: /shop
+ price:
+  description: ChatShop price
+  usage: /price [id]
+ buy:
+  description: ChatShop buy
+  usage: /buy [id] [количество]
+ sell:
+  description: ChatShop sell
+  usage: /sell [id] [количество]
