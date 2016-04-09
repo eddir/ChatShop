@@ -1,3 +1,6 @@
 # ChatShop
 Plugin for PocketMine-MP. 
-Description: coming son.
+### Use commands:
+ * /shop - to view instruction
+ * /sell %id% %count% - to sell your items
+ * /buy %id/name% %count% - to buy something
