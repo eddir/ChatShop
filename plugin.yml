@@ -6,14 +6,14 @@ author: eddir
 website: vk.com/eddir
 commands:
  shop:
-  description: ChatShop help
+  description: [ChatShop] Help command
   usage: /shop
  price:
-  description: ChatShop price
+  description: [ChatShop] Price command
   usage: /price [id]
  buy:
-  description: ChatShop buy
-  usage: /buy [id] [количество]
+  description: [ChatShop] Buy command
+  usage: /buy [id] [amount]
  sell:
-  description: ChatShop sell
-  usage: /sell [id] [количество]
+  description: [ChatShop] Sell command
+  usage: /sell [id] [amount]
