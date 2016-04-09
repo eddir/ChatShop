@@ -1,6 +1,6 @@
 name: ChatShop
-main: eddir\main
-version: 1.23.1 by Eddir
+main: eddir\ChatShop
+version: 0.1.23.1 by Eddir
 api: [1.0.0]
 author: eddir
 website: vk.com/eddir
